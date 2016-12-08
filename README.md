@@ -10,7 +10,7 @@ Requisitos
 Intalación
 ---
 
-Capturas
+Screenshot
 ---
 
 <div aling="center">
