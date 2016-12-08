@@ -13,4 +13,8 @@ Intalación
 Capturas
 ---
 
-[mi captura] (/img/captura.png)
+<div aling="center">
+    <center>
+        <img src="img/captura.png" width ="300">
+    </center>
+</div>
